@@ -1,0 +1,130 @@
+[
+  {
+    "title": "iphone_11_pro",
+    "name": "Apple iPhone 11 Pro",
+    "description": [
+      "Face ID for secure authentication and Apple Pay",
+      "5.8-inch (14.7 cm) Super Retina XDR OLED display",
+      "Water and dust resistant (4 meters for up to 30 minutes, IP68)",
+      "12MP TrueDepth front camera with Portrait mode, 4K video, and Slo-Mo",
+      "Triple-camera system with 12MP Ultra Wide, Wide, and Telephoto cameras; 4K video up to 60fps"
+    ],
+    "price": "₹1,06,600",
+    "image": [
+      "https://rukminim1.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/z/a/f/iphone-11-pro-max-256-u-mwhm2hn-a-apple-0-original-imafkg2ftc5cze5n.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/y/z/4/iphone-11-pro-256-a-mwcc2hn-a-apple-0-original-imafkg2fe9umh73z.jpeg?q=70"
+    ]
+  },
+  {
+    "title": "galaxy_note10",
+    "name": "Samsung Galaxy Note10",
+    "description": [
+      "5.8-inch (14.7 cm) Super Retina XDR OLED display",
+      "Water and dust resistant (4 meters for up to 30 minutes, IP68)",
+      "Triple-camera system with 12MP Ultra Wide, Wide, and Telephoto cameras; Night mode, Portrait mode, and 4K video up to 60fps",
+      "12MP TrueDepth front camera with Portrait mode, 4K video, and Slo-Mo",
+      "Face ID for secure authentication and Apple Pay"
+    ],
+    "price": "₹84200",
+    "image": [
+      "https://images.samsung.com/is/image/samsung/in-galaxy-note10-sm-n975-sm-n975fzsdins-177746672?$PD_GALLERY_L_SHOP_JPG$",
+      "https://images.samsung.com/is/image/samsung/in/galaxy-note10/gallery/in-galaxy-note10-sm-n975-sm-n975fzsdins-backauraglow-175631722?$PD_GALLERY_L_SHOP_JPG$"
+    ]
+  },
+  {
+    "title": "motorola_razr",
+    "name": "Motorola Razr",
+    "description": [
+      "Flippable and Pocket-Ready Design",
+      "6 GB RAM | 128 GB ROM",
+      "5.75 cm (6.2 inch) Display",
+      "16MP Rear Camera | 5MP Front Camera",
+      "2510 mAh Battery"
+    ],
+    "price": "₹1,24,999",
+    "image": [
+      "https://rukminim1.flixcart.com/image/416/416/k7nnrm80/mobile/c/q/y/motorola-razr-paht001-0in-original-imafpufaqywyygyk.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/416/416/k7nnrm80/mobile/c/q/y/motorola-razr-paht001-0in-original-imafpufak3adznw6.jpeg?q=70"
+    ]
+  },
+  {
+    "title": "galaxy_s10_plus",
+    "name": "Samsung Galaxy S10 Plus",
+    "description": [
+      "12 GB RAM | 1 TB ROM | Expandable Upto 512 GB",
+      "16.26 cm (6.4 inch) Quad HD+ Display",
+      "16MP + 12MP | 10MP + 8MP Dual Front Camera",
+      "4100 mAh Lithium-ion Battery",
+      "Exynos 9 9820 Processor"
+    ],
+    "price": "₹1,17,990",
+    "image": [
+      "https://rukminim1.flixcart.com/image/416/416/jsdj8nk0/mobile/u/p/f/samsung-galaxy-s10-plus-sm-g975fcwhins-original-imafdys4qx4fgshc.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/416/416/jsdj8nk0/mobile/u/p/f/samsung-galaxy-s10-plus-sm-g975fcwhins-original-imafdys42gcx2gfw.jpeg?q=70"
+    ]
+  },
+  {
+    "title": "mi_10",
+    "name": "Xiaomi Mi 10",
+    "description": [
+      "8 GB RAM | 256 GB ROM",
+      "16.94 cm (6.67 inch) Display",
+      "108MP + 13MP + 2MP + 2MP | 20MP Front Camera",
+      "4780 mAh Battery",
+      "Qualcomm Snapdragon 865 Processor"
+    ],
+    "price": "₹50,100",
+    "image": [
+      "https://rukminim1.flixcart.com/image/416/416/kdxfc7k0/mobile/c/k/b/mi-10-mzb8923in-original-imafuq8sjfjuj3gv.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/416/416/kdxfc7k0/mobile/c/k/b/mi-10-mzb8923in-original-imafuq8shngpbzjm.jpeg?q=70"
+    ]
+  },
+  {
+    "title": "rog_phone_3",
+    "name": "Asus ROG Phone 3",
+    "description": [
+      "8 GB RAM | 128 GB ROM",
+      "16.74 cm (6.59 inch) Full HD+ Display",
+      "64MP + 13MP + 5MP | 24MP Front Camera",
+      "6000 mAh Lithium Polymer Battery",
+      "Qualcomm Snapdragon 865+ (SM8250) Processor"
+    ],
+    "price": "₹49,999",
+    "image": [
+      "https://rukminim1.flixcart.com/image/416/416/kcuug7k0/mobile/g/h/e/asus-rog-phone-3-zs661ks-6a006in-original-imaftwc6nmyuyekd.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/416/416/kcuug7k0/mobile/g/h/e/asus-rog-phone-3-zs661ks-6a006in-original-imaftwc6gzvthxsb.jpeg?q=70"
+    ]
+  },
+  {
+    "title": "oneplus_8",
+    "name": "OnePlus 8",
+    "description": [
+      "8 GB RAM | 128 GB ROM",
+      "16.74 cm (6.59 inch) Full HD+ Display",
+      "64MP + 13MP + 5MP | 24MP Front Camera",
+      "6000 mAh Lithium Polymer Battery",
+      "Qualcomm Snapdragon 865+ (SM8250) Processor"
+    ],
+    "price": "₹49,990",
+    "image": [
+      "https://rukminim1.flixcart.com/image/416/416/kabe9ow0/mobile/x/e/3/oneplus-8-b0756zfxwp12-original-imafrxffjyjztgjf.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/416/416/kabe9ow0/mobile/x/e/3/oneplus-8-b0756zfxwp12-original-imafrxffjshke8er.jpeg?q=70"
+    ]
+  },
+  {
+    "title": "apple_iphone_xr",
+    "name": "Apple iPhone XR ",
+    "description": [
+      "64 GB ROM",
+      "15.49 cm (6.1 inch) Display",
+      "612MP Rear Camera | 7MP Front Camera",
+      "A12 Bionic Chip Processor",
+      "iOS 13 Compatible"
+    ],
+    "price": "₹45,999",
+    "image": [
+      "https://rukminim1.flixcart.com/image/416/416/jnj7iq80/mobile/3/f/a/apple-iphone-xr-mry62hn-a-original-imafa6zkhyceh8dg.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/416/416/jnj7iq80/mobile/t/r/p/apple-iphone-xr-mrym2hn-a-original-imafa6zkgkkaqhxx.jpeg?q=70"
+    ]
+  }
+]
